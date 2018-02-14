@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "26295195576",
+    "firebase_url": "https://fir-login-d04a7.firebaseio.com",
+    "project_id": "fir-login-d04a7",
+    "storage_bucket": "fir-login-d04a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26295195576:android:7a4edb8e01b950e3",
+        "android_client_info": {
+          "package_name": "com.example.menaadel.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26295195576-li82eld0shaaqdavbgpvrq32dtvfd53u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.menaadel.firebaselogin",
+            "certificate_hash": "5636edafee520569fd01ef3700c744cbd1f24f84"
+          }
+        },
+        {
+          "client_id": "26295195576-5nlfg6tnau0do0id0f2ip524v6m8qr9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfxRH1vQuv1nqlo7Y73BXov9Xr1Bd0CfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26295195576-5nlfg6tnau0do0id0f2ip524v6m8qr9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
