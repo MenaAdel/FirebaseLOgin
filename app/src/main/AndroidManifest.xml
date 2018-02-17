@@ -41,6 +41,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".ProfileLoggedByFB"></activity>
+        <activity android:name=".Account" />
+        <activity android:name=".Profile"></activity>
     </application>
 
 </manifest>
