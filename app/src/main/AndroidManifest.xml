@@ -43,6 +43,10 @@
         </activity>
         <activity android:name=".ProfileLoggedByFB"></activity>
         <activity android:name=".Profile"></activity>
+        <provider
+            android:authorities="com.facebook.app.FacebookContentProvider"
+            android:name="com.facebook.FacebookContentProvider"
+            android:exported="true"/>
     </application>
 
 </manifest>
